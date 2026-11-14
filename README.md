@@ -80,7 +80,7 @@ The following repositories represent the most popular open-source visual website
 
 ## ⭐ Star History
 
-[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Drag-And-Drop-Website-Builder&type=Date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Drag-And-Drop-Website-Builder&Date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Drag-And-Drop-Website-Builder&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Drag-And-Drop-Website-Builder&type=date&legend=top-left)
 
 ---
 
@@ -97,12 +97,12 @@ Contributions, reviews, and updates are welcomed!
 
 ## 💖 Support & Sponsorship
 
-If this curated list assists your product architecture, design workflow, or technology choices, please consider supporting the project:
+Thank you so much for visiting and using this project! If this curated directory has helped you evaluate tools, build applications, or streamline your web development workflows, please consider supporting its ongoing maintenance and development:
 
-- ⭐ **Star this repository** to improve visibility across the GitHub community!
-- 🍴 **Fork it** to retain an accessible personal reference copy.
-- 📣 **Share it** on X/Twitter, LinkedIn, Discord, and developer communities.
-- ☕ **Sponsor the author**: Support ongoing open-source curation and research via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star this repository** to show appreciation and boost its discovery on GitHub.
+- 🍴 **Fork it** to retain your own reference copy and submit contributions.
+- 📣 **Share it** with friends, colleagues, and communities on X/Twitter, LinkedIn, and Discord.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support open-source research and continuous updates, feel free to sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007). Your generosity is deeply appreciated!
 
 ---
 

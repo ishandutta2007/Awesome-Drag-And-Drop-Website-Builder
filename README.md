@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder?style=flat-square&color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder?style=flat-square" alt="License" /></a>
@@ -59,9 +59,9 @@ The table below catalogs dominant cloud website builders, sorted in descending o
 
 ## 💻 Open-Source GitHub Projects
 
-The following repositories represent the most popular open-source visual website builders, component editors, and embeddable page-building engines. **Sorted in descending order by GitHub Stars.**
+The following repositories represent the most popular open-source visual website builders, component editors, and embeddable page-building engines. **Sorted in descending order by GitHub_Stars.**
 
-| Repository | GitHub Stars | Primary Tech Stack | Description |
+| Repository | GitHub_Stars | Primary Tech Stack | Description |
 |:---|:---|:---|:---|
 | **[GrapesJS](https://github.com/GrapesJS/grapesjs)** | [![Stars](https://img.shields.io/github/stars/GrapesJS/grapesjs?style=social&color=white)](https://github.com/GrapesJS/grapesjs/stargazers) | TypeScript / Vanilla JS | **The premier framework for building custom web builders.** Permissive BSD-3-Clause license. Renders clean HTML, CSS, and JS with pluggable storage, canvas blocks, layer managers, and responsive previews. Best for embedding visual editing inside your SaaS app. |
 | **[TinaCMS](https://github.com/tinacms/tinacms)** | [![Stars](https://img.shields.io/github/stars/tinacms/tinacms?style=social&color=white)](https://github.com/tinacms/tinacms/stargazers) | TypeScript / React / Next.js | **Git-backed headless visual content management system.** Enables contextual on-page visual editing where edits are saved as structured commits (Markdown/JSON) directly into your Git repository. Perfect for Jamstack, Next.js, and Astro sites. |
@@ -90,7 +90,7 @@ Contributions, reviews, and updates are welcomed!
 
 1. 🍴 **Fork the repository** (`https://github.com/ishandutta2007/Awesome-Drag-And-Drop-Website-Builder`).
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-builder`.
-3. ✏️ **Add/Update listings**: Ensure entries are placed in the appropriate section, include exact starting prices, specify free tier/trial limits, and use social star badges for open-source projects.
+3. ✏️ **Add/Update listings**: Ensure entries are placed in the appropriate section, include exact starting prices, specify free tier/trial limits, and use social Stars_Badges for open-source projects.
 4. 🚀 **Submit a Pull Request**: Detail the rationale and link to official documentation.
 
 ---
